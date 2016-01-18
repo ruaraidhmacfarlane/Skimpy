@@ -41,6 +41,7 @@ Optionally view your database by opening your web browser and going to the page:
 ##Setting Up The Database
 
 To run Skimpy, the database must be set up.
+
 1. Run the file: “Executable/run_scraper.bat” You will be presented with the following options:
 
 ![Running Skimpy](https://cloud.githubusercontent.com/assets/8971646/12394952/bdae6da8-bdf6-11e5-8bbe-4412d5d04dfd.png)

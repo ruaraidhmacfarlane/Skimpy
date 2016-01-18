@@ -1,4 +1,4 @@
-# {Skimpy}
+# Skimpy
 Skimpy is a java and JSP based web application for planning meals, managing nutrition and comparing supermarket prices in the UK. It requires a MySQL database, and a web server. The Java JDK Skimpy was developed with and tested on was JRE System Library [jdk1.8.0_25]. The DBSM Skimpy was tested with was XAMPP 3.2.1 and the Webserver Apache Tomcat 8.0.
 ## Software Requirements
 1. A version of Apache Tomcat 8.0 with the latest Skimpy version (1.0) is included with this release. Skimpy is pre-deployed however,Tomcat may need configuration to run in your environment.
@@ -33,14 +33,18 @@ Copy the file "Skimpy.war" to your "Tomcat/webapps" directory. Skimpy will be de
 
 A mySQL database is required to run Skimpy. XAMPP is an Apache Database suite.
 1. Run the XAMPP control panel. Start Apache and MySQL using the buttons provided. 
+
 ![XAMPP Screenshot](https://cloud.githubusercontent.com/assets/8971646/12394831/295b6548-bdf6-11e5-86ad-09e57c8f4cbc.png)
+
 Optionally view your database by opening your web browser and going to the page: "http://localhost/phpmyadmin/index.php".
 
 ##Setting Up The Database
 
 To run Skimpy, the database must be set up.
 1. Run the file: “Executable/run_scraper.bat” You will be presented with the following options:
+
 ![Running Skimpy](https://cloud.githubusercontent.com/assets/8971646/12394952/bdae6da8-bdf6-11e5-8bbe-4412d5d04dfd.png)
+
 Pressing "a" will initialise the database. This means there will be no products or users in any tables.
 Pressing "b" will open a sub-menu for initializing an individual table, deleting its contents.
 Pressing "c" will open a sub-menu for populating individual tables with test data.

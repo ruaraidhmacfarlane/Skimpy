@@ -47,10 +47,15 @@ To run Skimpy, the database must be set up.
 ![Running Skimpy](https://cloud.githubusercontent.com/assets/8971646/12394952/bdae6da8-bdf6-11e5-8bbe-4412d5d04dfd.png)
 
 Pressing "a" will initialise the database. This means there will be no products or users in any tables.
+
 Pressing "b" will open a sub-menu for initializing an individual table, deleting its contents.
+
 Pressing "c" will open a sub-menu for populating individual tables with test data.
+
 Pressing "d" will open a sub-menu for running one of the web scrapers.
+
 Pressing "q" will quit the menu.
+
 2. Press "a" to initialise the database, or "c" for populating tables with test data.
 
 ##Running Skimpy

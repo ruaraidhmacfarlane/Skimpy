@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # {Skimpy}
 Skimpy is a java and JSP based web application for planning meals, managing nutrition and comparing supermarket prices in the UK. It requires a MySQL database, and a web server. The Java JDK Skimpy was developed with and tested on was JRE System Library [jdk1.8.0_25]. The DBSM Skimpy was tested with was XAMPP 3.2.1 and the Webserver Apache Tomcat 8.0.
 ## Software Requirements
@@ -47,6 +45,3 @@ after the database is initialised. Skimpy will now function. To access the inter
 ##Maintenance
 Skimpy should be relatively maintenance free however, the scrapers need to be run daily to update the database. To run the scrapers, open the file run_scraper.bat and press d to select the option d:> Run scrapers. This will lead to a submenu, where each of the web scrapers (Asda, Sainsbury’s and Tesco) can be run. It is best to schedule this nightly as each scraper takes approximately 
 4-6 hours to finish.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>

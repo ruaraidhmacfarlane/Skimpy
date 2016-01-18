@@ -42,21 +42,21 @@ Optionally view your database by opening your web browser and going to the page:
 
 To run Skimpy, the database must be set up.
 
-1. Run the file: “Executable/run_scraper.bat” You will be presented with the following options:
+Run the file: “Executable/run_scraper.bat” You will be presented with the following options:
 
 ![Running Skimpy](https://cloud.githubusercontent.com/assets/8971646/12394952/bdae6da8-bdf6-11e5-8bbe-4412d5d04dfd.png)
 
-  Pressing "a" will initialise the database. This means there will be no products or users in any tables.
+Pressing "a" will initialise the database. This means there will be no products or users in any tables.
 
-  Pressing "b" will open a sub-menu for initializing an individual table, deleting its contents.
+Pressing "b" will open a sub-menu for initializing an individual table, deleting its contents.
 
-  Pressing "c" will open a sub-menu for populating individual tables with test data.
+Pressing "c" will open a sub-menu for populating individual tables with test data.
 
-  Pressing "d" will open a sub-menu for running one of the web scrapers.
+Pressing "d" will open a sub-menu for running one of the web scrapers.
 
-  Pressing "q" will quit the menu.
+Pressing "q" will quit the menu.
 
-2. Press "a" to initialise the database, or "c" for populating tables with test data.
+Press "a" to initialise the database, or "c" for populating tables with test data.
 
 ##Running Skimpy
 

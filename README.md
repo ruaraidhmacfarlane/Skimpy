@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${1:Skimpy}
+# {Skimpy}
 Skimpy is a java and JSP based web application for planning meals, managing nutrition and comparing supermarket prices in the UK. It requires a MySQL database, and a web server. The Java JDK Skimpy was developed with and tested on was JRE System Library [jdk1.8.0_25]. The DBSM Skimpy was tested with was XAMPP 3.2.1 and the Webserver Apache Tomcat 8.0.
 ## Software Requirements
 1. A version of Apache Tomcat 8.0 with the latest Skimpy version (1.0) is included with this release. Skimpy is pre-deployed however,Tomcat may need configuration to run in your environment.
